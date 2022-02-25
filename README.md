@@ -1,2 +1,5 @@
 # Google-Hash-Code-Competition
-Google Competitions Solutions
+
+## Hash Code 2022
+### Practise Round
+1. [One Pizza](./Hash-Code-2022/Practise/One-Pizza.md)
