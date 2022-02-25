@@ -21,7 +21,9 @@ Anna: Python level 3
 Bob: C++ level 3
 Maria: HTML level 4, CSS level 6
 ```
+
 ![Three contributors and their skills, as described in the example above.](./img/image1.png)
+
 
 ### Projects
 There are M projects. Each project is described by:
