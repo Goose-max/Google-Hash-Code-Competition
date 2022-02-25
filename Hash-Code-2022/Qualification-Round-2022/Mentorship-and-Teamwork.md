@@ -223,12 +223,14 @@ Day 0 to day 6: Bob and Anna are working on project WebServer (they both have th
 
 As of project completion, Anna levels up in C++: level 2 → 3;
 Bob doesn't level up because his HTML skill (level 5) is of a higher level than required for the project (level 3).
-Project WebServer's last day of work is day 6, so it completes strictly before its "best before" day 7 and receives the full score: 10 points.
+Project WebServer's last day of work is day 6, so it completes strictly before its "best before" day 7 and receives the 
+full score: 10 points.
 
 Day 7 to 11: Anna is working on the project Logging (she has sufficient C++ skill after completing project WebServer).
 
 As of project completion, Anna levels up in C++: level 3 → 4;
-Project Logging's last day of work is 11 (so it's completed strictly before day 12), while its "best before" day was 5. It is late by (12−5=) 7 days and receives a score of: (10−7=) 3 points.
+Project Logging's last day of work is 11 (so it's completed strictly before day 12), while its "best before" day 
+was 5. It is late by (12−5=) 7 days and receives a score of: (10−7=) 3 points.
 
 Day 7 to 16: Maria and Bob are working on project WebChat
 
@@ -236,6 +238,10 @@ As of project completion, Maria levels up in Python: level 3 → 4;
 Bob doesn't level up in HTML because his skills are of a higher level than required for the project (HTML level 5, required 3)
 Project WebChat's last day of work is day 16, while the "best before" day is 20, so it receives the full score: 20 points.
 
-In the end, projects Webserver (10 points), Logging (3 points) and WebChat (20 points) are completed, resulting in a total score of 33 points.
+In the end, projects Webserver (10 points), Logging (3 points) and WebChat (20 points) are completed, resulting in a 
+total score of 33 points.
 ```
 __Note that there are multiple data sets representing separate instances of the problem. The final score for your team will be the sum of your best scores for the individual data sets.__
+
+# Solution
+[mentorship-and-teamwork.py](./mentorship-and-teamwork.py)
