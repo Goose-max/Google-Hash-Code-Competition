@@ -168,8 +168,8 @@ WebChat 10 20 20 2          project WebChat needs 2 contributors
 Python 3                        first contributor needs to have Python at level ≥ 3 (2 with mentoring)
 HTML 3                          second contributor needs to have HTML at level ≥ 3 (2 with mentoring)
 ```
-![Three contributors and their skills, as described in the input above.](./img/image4.png)
-![The 3 projects that are described in the input.](./img/image5.png)
+![Three contributors and their skills, as described in the input above.](./img/image3.png)
+![The 3 projects that are described in the input.](./img/image4.png)
 
 # Submissions
 The submission file should be a plaintext file containing only ASCII characters.
@@ -203,7 +203,7 @@ Each contributor can only work on one project at a time. If one contributor is a
 in the same order as they appear in the submission file. Each project starts immediately on the first day on which all the assigned contributors 
 are available.
 
-![Projects execution timeline based on the input data set and the submission from the previous sections.](./img/image3.png)
+![Projects execution timeline based on the input data set and the submission from the previous sections.](./img/image5.png)
 
 If some project assignment is invalid because the assigned contributor does not have the required skill level for the project after finishing all
 previously assigned projects, the submission is considered invalid and will not be scored.
