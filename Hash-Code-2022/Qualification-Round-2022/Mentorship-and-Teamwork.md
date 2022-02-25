@@ -108,7 +108,7 @@ nor the HTML skill (because her role required CSS, not HTML).
 
 ## Input data sets
 Input Data
-- [Full Input](./Full-Input-zipped)
+- [Full Input](./Full-Input/Full-input.zip)
 - [A - An example](./Full-Input/a_an_example.in.txt)
 - [B - Better start small](./Full-Input/b_better_start_small.in.txt)
 - [C - Collaboration](./Full-Input/c_collaboration.in.txt)
