@@ -108,13 +108,13 @@ nor the HTML skill (because her role required CSS, not HTML).
 
 ## Input data sets
 Input Data
-- [Full Input](./Full-Input)
-- [A - An example]
-- [B - Better start small]
-- [C - Collaboration]
-- [D - Dense schedule]
-- [E - Exceptional skills]
-- [F - Find great mentors]
+- [Full Input](./Full-Input-zipped)
+- [A - An example](./Full-Input/a_an_example.in.txt)
+- [B - Better start small](./Full-Input/b_better_start_small.in.txt)
+- [C - Collaboration](./Full-Input/c_collaboration.in.txt)
+- [D - Dense schedule](./Full-Input/d_dense_schedule.in.txt)
+- [E - Exceptional skills](./Full-Input/e_exceptaional_skills.in.txt)
+- [F - Find great mentors](./Full-Input/f_find_great_mentors.in.txt)
 
 ## File format
 Each input data set is provided in a plain text file. The file contains only ASCII characters with lines ending with
